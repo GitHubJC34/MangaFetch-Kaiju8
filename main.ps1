@@ -2,12 +2,7 @@
 $chapitreDebut = [int](Read-Host "Entrez le numéro du chapitre de début")
 # Demander à l'utilisateur de saisir le numéro du chapitre de fin
 $chapitreFin = [int](Read-Host "Entrez le numéro du chapitre de fin")
-###################################################################
-# Demander à l'utilisateur de saisir le numéro du chapitre de début
-# $chapitreDebut = int
-# Demander à l'utilisateur de saisir le numéro du chapitre de fin
-# $chapitreFin = int
-###################################################################
+
 # Définir le chemin de base pour enregistrer les images
 $cheminBase = "C:\Images\"
 
